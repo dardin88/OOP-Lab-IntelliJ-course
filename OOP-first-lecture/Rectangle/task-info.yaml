@@ -3,8 +3,8 @@ files:
 - name: src/Main.java
   visible: true
   placeholders:
-  - offset: 406
-    length: 340
+  - offset: 274
+    length: 472
     placeholder_text: /* TODO */
 - name: test/output.txt
   visible: false
