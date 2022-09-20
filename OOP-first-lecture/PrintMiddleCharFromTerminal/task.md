@@ -1,4 +1,4 @@
-# Stampare il carattere centrale prendendo l'input dal termnanle
+# Stampare il carattere centrale prendendo l'input dal terminale
 
 Un modo per dare in input al programma dei valori a tempo di esecuzione è utilizzare l’array passato come parametro al
 `main`.

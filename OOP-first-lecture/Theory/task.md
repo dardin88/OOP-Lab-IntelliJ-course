@@ -1,4 +1,4 @@
-# La Classe `String`
+# La classe `String`
 
 In Java una stringa è una sequenza finita di caratteri racchiusa tra virgolette, come "buongiorno"
 (le virgolette non fanno parte della stringa).
