@@ -1,6 +1,6 @@
-# Il metodo `IndexOf`
+# Il metodo `indexOf`
 
-Il metodo `indexOf(String)` restituisce la posizione della prima occorrenza di una data sottostringa in una stringa;
+Il metodo `int indexOf(String)` restituisce la posizione della prima occorrenza di una data sottostringa in una stringa;
 
 È necessario passare come argomento della funzione la sottostringa che si vuole ricercare;
 
@@ -10,7 +10,7 @@ es. `"corso-prog".indexOf("ro");`
 
 ---
 
-Una seconda versione di `indexOf(String,int)` effettua la ricerca a partire da una fissata posizione della stringa
+Una seconda versione del metodo effettua la ricerca a partire da una fissata posizione della stringa
 
 È necessario passare come argomenti del metodo
 
