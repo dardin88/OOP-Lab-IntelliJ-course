@@ -1,0 +1,16 @@
+type: marketplace
+title: Laboratorio di Object Oriented Programming in Java
+language: Italian
+summary: |-
+  Questo corso contiene alcune lezioni di laboratorio del corso di Object Oriented Programming AA 2022/23 (congrua 2)
+  tenuto al Dipartimento di Informatica dell'Università degli Studi di Salerno:
+  - Il corso è pensato per studenti con basi di programmazione procedurale.
+  - Il corso copre alcune funzionalità principali di Java.
+  - Contiene esempi pratici di implementazione del codice Java ed esercizi per mettere in pratica le nuove abilità.
+  - Il corso si basa sull'esperienza personale dell'autore nello sviluppo di Java.
+vendor:
+  name: Dario Di Nucci
+programming_language: Java
+programming_language_version: 17
+content:
+- OOP-first-lecture

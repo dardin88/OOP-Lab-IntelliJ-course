@@ -1,0 +1,12 @@
+content:
+- Theory
+- PrintMiddleChar
+- FirstAndLastInverted
+- InvertHalfString
+- PrintMiddleCharFromTerminal
+- InitialsConcatenationFromTerminal
+- CharAt
+- IndexOf
+- UpperCaseInitial
+- StringBuilder
+- Rectangle

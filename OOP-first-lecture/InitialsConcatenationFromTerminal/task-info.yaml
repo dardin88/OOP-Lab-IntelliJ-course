@@ -1,0 +1,8 @@
+type: theory
+files:
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 70
+    length: 248
+    placeholder_text: /* TODO */
