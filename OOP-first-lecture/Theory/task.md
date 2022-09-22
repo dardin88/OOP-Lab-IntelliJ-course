@@ -7,7 +7,7 @@ Per dichiarare una variabile stringa
 
 ```
 String vuota = "";        // stringa con valore nullo
-String nome = “Luigi";    // stringa con valore Luigi
+String nome = "Luigi";    // stringa con valore Luigi
 ```
 
 Una stringa vuota è un oggetto `String` che rappresenta una sequenza vuota di caratteri, cioè una stringa di lunghezza

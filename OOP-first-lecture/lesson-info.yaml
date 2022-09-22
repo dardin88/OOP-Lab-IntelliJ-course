@@ -1,10 +1,10 @@
 content:
 - Theory
 - PrintMiddleChar
-- FirstAndLastInverted
-- InvertHalfString
 - PrintMiddleCharFromTerminal
 - InitialsConcatenationFromTerminal
+- FirstAndLastInverted
+- InvertHalfString
 - CharAt
 - IndexOf
 - UpperCaseInitial
