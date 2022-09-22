@@ -11,5 +11,3 @@ files:
     placeholder_text: /* TODO */
 - name: test/output.txt
   visible: false
-- name: test/latest_output.txt
-  visible: false
