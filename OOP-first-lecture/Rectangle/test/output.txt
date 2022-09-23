@@ -1,4 +1,3 @@
-java.awt.Rectangle[x=0,y=0,width=10,height=20]
 java.awt.Rectangle[x=5,y=5,width=40,height=20]
 800.0
 120.0

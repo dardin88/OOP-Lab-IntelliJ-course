@@ -14,7 +14,6 @@ public class Main {
         double perimeter;
 
         Rectangle box = new Rectangle(x, y, width, height);
-        System.out.println(box);
 
         box.setLocation(newX, newY);
 

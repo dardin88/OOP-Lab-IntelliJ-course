@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 274
-    length: 472
+    length: 439
     placeholder_text: /* TODO */
 - name: test/output.txt
   visible: false
