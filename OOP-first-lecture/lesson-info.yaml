@@ -3,8 +3,6 @@ content:
 - PrintMiddleChar
 - FirstAndLastInverted
 - InvertHalfString
-- PrintMiddleCharFromTerminal
-- InitialsConcatenationFromTerminal
 - CharAt
 - IndexOf
 - UpperCaseInitial
