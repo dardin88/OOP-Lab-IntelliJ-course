@@ -1,4 +1,4 @@
-public class Theory {
+public class Strings {
     public static void main(String[] args) {
         String vuota = "";        // stringa con valore nullo
         String nome = "Luigi";    // stringa con valore Luigi
