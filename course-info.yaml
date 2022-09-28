@@ -13,4 +13,5 @@ vendor:
 programming_language: Java
 programming_language_version: 17
 content:
-- OOP-first-lecture
+- Lab_01
+- Lab_02

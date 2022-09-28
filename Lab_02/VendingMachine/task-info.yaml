@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/VendingMachine.java
+    visible: true
+    placeholders:
+      - offset: 317
+        length: 32
+        placeholder_text: /* TODO */
+      - offset: 393
+        length: 91
+        placeholder_text: /* TODO */
+      - offset: 531
+        length: 19
+        placeholder_text: /* TODO */
+      - offset: 601
+        length: 20
+        placeholder_text: /* TODO */
+      - offset: 674
+        length: 22
+        placeholder_text: /* TODO */
+  - name: test/VendingMachineTests.java
+    visible: true
+    placeholders:
+      - offset: 86
+        length: 729
+        placeholder_text: /* TODO */

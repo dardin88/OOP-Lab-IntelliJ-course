@@ -1,0 +1,9 @@
+content:
+  - SavingAccount
+  - VendingMachine
+  - Student
+  - Infected
+  - Car
+  - InputChecker
+  - FirstAndLastWord
+  - Locker

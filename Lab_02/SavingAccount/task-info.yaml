@@ -1,0 +1,28 @@
+type: edu
+files:
+- name: src/SavingAccount.java
+  visible: true
+  placeholders:
+  - offset: 149
+    length: 28
+    placeholder_text: /* TODO */
+  - offset: 307
+    length: 19
+    placeholder_text: /* TODO */
+  - offset: 439
+    length: 33
+    placeholder_text: /* TODO */
+  - offset: 526
+    length: 21
+    placeholder_text: /* TODO */
+  - offset: 673
+    length: 33
+    placeholder_text: /* TODO */
+  - offset: 1108
+    length: 196
+    placeholder_text: /* TODO */
+  - offset: 1663
+    length: 402
+    placeholder_text: /* TODO */
+- name: test/SavingAccountTests.java
+  visible: true

@@ -1,0 +1,17 @@
+type: edu
+files:
+- name: src/FirstAndLastWord.java
+  visible: true
+  placeholders:
+  - offset: 303
+    length: 180
+    placeholder_text: /* TODO */
+  - offset: 534
+    length: 190
+    placeholder_text: /* TODO */
+- name: test/FirstAndLastWordTests.java
+  visible: true
+  placeholders:
+  - offset: 142
+    length: 914
+    placeholder_text: /* TODO */

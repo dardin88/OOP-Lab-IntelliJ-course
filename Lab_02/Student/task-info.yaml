@@ -1,0 +1,22 @@
+type: edu
+files:
+- name: src/Student.java
+  visible: true
+  placeholders:
+  - offset: 590
+    length: 21
+    placeholder_text: /* TODO */
+  - offset: 669
+    length: 185
+    placeholder_text: /* TODO */
+  - offset: 233
+    length: 101
+    placeholder_text: /* TODO */
+- name: test/StudentTests.java
+  visible: true
+  placeholders:
+  - offset: 145
+    length: 1223
+    placeholder_text: /* TODO */
+- name: src/Exam.java
+  visible: true

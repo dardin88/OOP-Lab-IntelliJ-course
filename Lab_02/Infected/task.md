@@ -1,0 +1,2 @@
+Esercizio come il precedente rispetto però ad una classe `Infected` dove siamo interessati a recuperare il numero totale
+di infetti per una malattia e questi possono aumentare o diminuire in base al parametro Rt.
