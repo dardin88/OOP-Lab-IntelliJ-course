@@ -9,9 +9,9 @@ files:
   - offset: 534
     length: 190
     placeholder_text: /* TODO */
-- name: test/FirstAndLastWordTests.java
+- name: test/FirstAndLastWordTest.java
   visible: true
   placeholders:
-  - offset: 142
+  - offset: 141
     length: 914
     placeholder_text: /* TODO */

@@ -4,7 +4,7 @@ import org.junit.Test;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 
-public class StudentTests {
+public class StudentTest {
     @Test
     public void newStudentTest() {
         Student student = new Student("Dario", "Di Nucci");

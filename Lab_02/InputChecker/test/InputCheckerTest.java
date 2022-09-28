@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class InputCheckerTests {
+public class InputCheckerTest {
     @Test
     public void OKTest() {
         InputChecker inputChecker = new InputChecker();

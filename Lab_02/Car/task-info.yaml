@@ -15,9 +15,9 @@ files:
   - offset: 372
     length: 70
     placeholder_text: /* TODO */
-- name: test/CarTests.java
+- name: test/CarTest.java
   visible: true
   placeholders:
-  - offset: 77
+  - offset: 76
     length: 225
     placeholder_text: /* TODO */

@@ -1,14 +1,11 @@
 type: edu
 files:
-- name: test/InfectedTests.java
-  visible: true
-  placeholders:
-  - offset: 83
-    length: 799
-    placeholder_text: /* TODO */
 - name: src/Infected.java
   visible: true
   placeholders:
+  - offset: 140
+    length: 58
+    placeholder_text: /* TODO */
   - offset: 265
     length: 82
     placeholder_text: /* TODO */
@@ -21,6 +18,9 @@ files:
   - offset: 664
     length: 49
     placeholder_text: /* TODO */
-  - offset: 140
-    length: 58
+- name: test/InfectedTest.java
+  visible: true
+  placeholders:
+  - offset: 82
+    length: 799
     placeholder_text: /* TODO */

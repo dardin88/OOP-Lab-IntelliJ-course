@@ -4,7 +4,7 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FirstAndLastWordTests {
+public class FirstAndLastWordTest {
     @Test
     public void printFirstAndLastWordTest() {
         List<String> stringList = new ArrayList<>();

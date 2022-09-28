@@ -6,9 +6,9 @@ files:
   - offset: 109
     length: 414
     placeholder_text: /* TODO */
-- name: test/InputCheckerTests.java
+- name: test/InputCheckerTest.java
   visible: true
   placeholders:
-  - offset: 86
+  - offset: 85
     length: 863
     placeholder_text: /* TODO */

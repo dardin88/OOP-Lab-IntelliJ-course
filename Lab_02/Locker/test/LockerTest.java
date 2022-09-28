@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class LockerTests {
+public class LockerTest {
     @Test
     public void lockTest() {
         Locker locker = new Locker();

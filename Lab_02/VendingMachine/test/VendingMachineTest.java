@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class VendingMachineTests {
+public class VendingMachineTest {
     @Test
     public void addCansTest() {
         VendingMachine vm = new VendingMachine();

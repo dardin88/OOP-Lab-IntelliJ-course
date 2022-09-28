@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class SavingAccountTests {
+public class SavingAccountTest {
     @Test
     public void depositAndWithDrawTest() {
         SavingAccount harrysChecking = new SavingAccount(1);

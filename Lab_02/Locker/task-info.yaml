@@ -1,11 +1,5 @@
 type: edu
 files:
-- name: test/LockerTests.java
-  visible: true
-  placeholders:
-  - offset: 80
-    length: 819
-    placeholder_text: /* TODO */
 - name: src/Locker.java
   visible: true
   placeholders:
@@ -20,4 +14,10 @@ files:
     placeholder_text: /* TODO */
   - offset: 434
     length: 58
+    placeholder_text: /* TODO */
+- name: test/LockerTest.java
+  visible: true
+  placeholders:
+  - offset: 79
+    length: 819
     placeholder_text: /* TODO */

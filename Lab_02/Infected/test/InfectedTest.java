@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class InfectedTests {
+public class InfectedTest {
 
     @Test
     public void rtGoingDownTest() {

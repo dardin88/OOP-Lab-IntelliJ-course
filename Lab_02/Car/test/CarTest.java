@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class CarTests {
+public class CarTest {
     @Test
     public void testSolution() {
         Car car = new Car(0.05);
