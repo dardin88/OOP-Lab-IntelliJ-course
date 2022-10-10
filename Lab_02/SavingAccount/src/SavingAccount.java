@@ -45,7 +45,7 @@ public class SavingAccount {
      */
     public void addInterest() {
         double interest = balance * interestRate * 90 / 36000;
-        balance = balance + interest;
+        balance += interest;
     }
 
     /**

@@ -9,8 +9,8 @@ files:
   - offset: 307
     length: 19
     placeholder_text: /* TODO */
-  - offset: 439
-    length: 33
+  - offset: 431
+    length: 41
     placeholder_text: /* TODO */
   - offset: 526
     length: 21
@@ -19,9 +19,9 @@ files:
     length: 33
     placeholder_text: /* TODO */
   - offset: 1108
-    length: 196
+    length: 187
     placeholder_text: /* TODO */
-  - offset: 1663
+  - offset: 1654
     length: 402
     placeholder_text: /* TODO */
 - name: test/SavingAccountTest.java
