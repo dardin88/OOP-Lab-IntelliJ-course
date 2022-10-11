@@ -1,0 +1,26 @@
+type: edu
+files:
+- name: src/TicTacToe.java
+  visible: true
+  placeholders:
+  - offset: 879
+    length: 2975
+    placeholder_text: /* TODO */
+  - offset: 4800
+    length: 442
+    placeholder_text: /* TODO */
+- name: test/TicTacToeTest.java
+  visible: true
+  placeholders:
+  - offset: 425
+    length: 228
+    placeholder_text: /* TODO */
+  - offset: 720
+    length: 228
+    placeholder_text: /* TODO */
+  - offset: 1016
+    length: 228
+    placeholder_text: /* TODO */
+  - offset: 135
+    length: 228
+    placeholder_text: /* TODO */

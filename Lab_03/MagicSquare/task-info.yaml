@@ -1,0 +1,13 @@
+type: edu
+files:
+- name: src/MagicSquare.java
+  visible: true
+  placeholders:
+  - offset: 1086
+    length: 1508
+    placeholder_text: /* TODO */
+  - offset: 757
+    length: 220
+    placeholder_text: /* TODO */
+- name: test/MagicSquareTest.java
+  visible: true

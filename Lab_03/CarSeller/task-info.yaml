@@ -1,0 +1,18 @@
+type: edu
+files:
+- name: src/CarSeller.java
+  visible: true
+  placeholders:
+  - offset: 272
+    length: 1900
+    placeholder_text: /* TODO */
+- name: test/CarSellerTest.java
+  visible: true
+  placeholders:
+  - offset: 192
+    length: 1463
+    placeholder_text: /* TODO */
+- name: src/Car.java
+  visible: true
+- name: test/testData.txt
+  visible: true

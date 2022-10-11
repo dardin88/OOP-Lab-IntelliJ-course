@@ -2,6 +2,7 @@ type: marketplace
 title: Laboratorio di Object Oriented Programming in Java
 language: Italian
 summary: |-
+  This is a collection of lab sessions for an Object Oriented course in Italian.
   Questo corso contiene alcune lezioni di laboratorio del corso di Object Oriented Programming AA 2022/23 (congrua 2)
   tenuto al Dipartimento di Informatica dell'Università degli Studi di Salerno:
   - Il corso è pensato per studenti con basi di programmazione procedurale.
@@ -15,3 +16,4 @@ programming_language_version: 17
 content:
 - Lab_01
 - Lab_02
+- Lab_03

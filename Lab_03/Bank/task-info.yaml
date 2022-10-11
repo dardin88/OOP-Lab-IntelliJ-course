@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: src/Bank.java
+  visible: true
+  placeholders:
+  - offset: 271
+    length: 110
+    placeholder_text: /* TODO */
+  - offset: 674
+    length: 80
+    placeholder_text: /* TODO */
+  - offset: 831
+    length: 81
+    placeholder_text: /* TODO */
+  - offset: 978
+    length: 84
+    placeholder_text: /* TODO */
+  - offset: 1164
+    length: 188
+    placeholder_text: /* TODO */
+- name: test/BankTest.java
+  visible: true
+  placeholders:
+  - offset: 597
+    length: 247
+    placeholder_text: /* TODO */
+  - offset: 903
+    length: 246
+    placeholder_text: /* TODO */
+  - offset: 1208
+    length: 235
+    placeholder_text: /* TODO */
+- name: src/BankAccount.java
+  visible: true

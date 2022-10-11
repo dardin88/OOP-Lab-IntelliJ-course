@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: src/Dice.java
+  visible: true
+  placeholders:
+  - offset: 383
+    length: 1628
+    placeholder_text: /* TODO */
+- name: src/BankAccount.java
+  visible: true
