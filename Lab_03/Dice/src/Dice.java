@@ -41,7 +41,7 @@ public class Dice {
                 System.out.println("Hai vinto " + bet * 5 + ".");
             } else {
                 playerAccount.withdraw(bet);
-                casinoAccount.withdraw(bet);
+                casinoAccount.deposit(bet);
                 System.out.println("Hai perso " + bet + ".");
             }
 

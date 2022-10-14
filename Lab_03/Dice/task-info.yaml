@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 383
-    length: 1628
+    length: 1627
     placeholder_text: /* TODO */
 - name: src/BankAccount.java
   visible: true
