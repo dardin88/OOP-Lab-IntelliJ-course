@@ -15,6 +15,6 @@ files:
     length: 1733
     placeholder_text: /* TODO */
 - name: test/it/unisa/railways/TrainTest.java
-  visible: false
+  visible: true
 - name: test/it/unisa/railways/ExpressTrainTest.java
-  visible: false
+  visible: true

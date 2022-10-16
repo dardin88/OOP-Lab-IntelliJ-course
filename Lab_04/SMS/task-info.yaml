@@ -13,4 +13,4 @@ files:
     length: 776
     placeholder_text: /* TODO */
 - name: test/it/unisa/SMS/SMSOrganizerTest.java
-  visible: false
+  visible: true
