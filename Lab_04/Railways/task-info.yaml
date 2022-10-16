@@ -1,0 +1,20 @@
+type: edu
+files:
+- name: src/it/unisa/railways/Train.java
+  visible: true
+  placeholders:
+  - offset: 77
+    length: 1268
+    placeholder_text: /* TODO */
+- name: src/it/unisa/railways/TrainStop.java
+  visible: true
+- name: src/it/unisa/railways/ExpressTrain.java
+  visible: true
+  placeholders:
+  - offset: 84
+    length: 1733
+    placeholder_text: /* TODO */
+- name: test/it/unisa/railways/TrainTest.java
+  visible: false
+- name: test/it/unisa/railways/ExpressTrainTest.java
+  visible: false
