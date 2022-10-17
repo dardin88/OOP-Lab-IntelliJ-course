@@ -97,19 +97,17 @@ public class TicTacToe {
 
         // and the second diagonal...
 
-        for (int j = 2; j >= 0; j--) {
-            for (int i = 0; i < ROWS; i++) {
-                if (board[i][j].equals(player1)) {
-                    correctElementsForPlayer1++;
-                    if (correctElementsForPlayer1 == 3) {
-                        return player1;
-                    }
-                } else {
-                    if (board[i][j].equals(player2)) {
-                        correctElementsForPlayer2++;
-                        if (correctElementsForPlayer2 == 3) {
-                            return player2;
-                        }
+        for (int j = 2, i = 0; j >= 0; j--, i++){
+            if (board[i][j].equals(player1)) {
+                correctElementsForPlayer1++;
+                if (correctElementsForPlayer1 == 3) {
+                    return player1;
+                }
+            } else {
+                if (board[i][j].equals(player2)) {
+                    correctElementsForPlayer2++;
+                    if (correctElementsForPlayer2 == 3) {
+                        return player2;
                     }
                 }
             }
