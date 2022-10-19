@@ -1,64 +1,64 @@
 type: edu
 files:
-- name: src/Purse.java
-  visible: true
-  placeholders:
-  - offset: 78
-    length: 274
-    placeholder_text: /* TODO */
-  - offset: 564
-    length: 115
-    placeholder_text: /* TODO */
-  - offset: 729
-    length: 140
-    placeholder_text: /* TODO */
-  - offset: 916
-    length: 186
-    placeholder_text: /* TODO */
-  - offset: 1149
-    length: 186
-    placeholder_text: /* TODO */
-  - offset: 1382
-    length: 97
-    placeholder_text: /* TODO */
-  - offset: 1531
-    length: 19
-    placeholder_text: /* TODO */
-  - offset: 1606
-    length: 28
-    placeholder_text: /* TODO */
-  - offset: 1695
-    length: 290
-    placeholder_text: /* TODO */
-  - offset: 2053
-    length: 423
-    placeholder_text: /* TODO */
-- name: test/PurseTest.java
-  visible: true
-  placeholders:
-  - offset: 296
-    length: 147
-    placeholder_text: /* TODO */
-  - offset: 490
-    length: 178
-    placeholder_text: /* TODO */
-  - offset: 717
-    length: 144
-    placeholder_text: /* TODO */
-  - offset: 911
-    length: 177
-    placeholder_text: /* TODO */
-  - offset: 1136
-    length: 142
-    placeholder_text: /* TODO */
-  - offset: 1327
-    length: 274
-    placeholder_text: /* TODO */
-  - offset: 1648
-    length: 600
-    placeholder_text: /* TODO */
-  - offset: 114
-    length: 136
-    placeholder_text: /* TODO */
-- name: src/Coin.java
-  visible: true
+  - name: src/Purse.java
+    visible: true
+    placeholders:
+      - offset: 78
+        length: 274
+        placeholder_text: /* TODO */
+      - offset: 564
+        length: 115
+        placeholder_text: /* TODO */
+      - offset: 729
+        length: 140
+        placeholder_text: /* TODO */
+      - offset: 916
+        length: 186
+        placeholder_text: /* TODO */
+      - offset: 1149
+        length: 186
+        placeholder_text: /* TODO */
+      - offset: 1382
+        length: 97
+        placeholder_text: /* TODO */
+      - offset: 1531
+        length: 19
+        placeholder_text: /* TODO */
+      - offset: 1606
+        length: 28
+        placeholder_text: /* TODO */
+      - offset: 1695
+        length: 290
+        placeholder_text: /* TODO */
+      - offset: 2053
+        length: 423
+        placeholder_text: /* TODO */
+  - name: test/PurseTest.java
+    visible: true
+    placeholders:
+      - offset: 118
+        length: 152
+        placeholder_text: /* TODO */
+      - offset: 322
+        length: 163
+        placeholder_text: /* TODO */
+      - offset: 538
+        length: 198
+        placeholder_text: /* TODO */
+      - offset: 791
+        length: 164
+        placeholder_text: /* TODO */
+      - offset: 1011
+        length: 197
+        placeholder_text: /* TODO */
+      - offset: 1262
+        length: 158
+        placeholder_text: /* TODO */
+      - offset: 1475
+        length: 306
+        placeholder_text: /* TODO */
+      - offset: 1834
+        length: 684
+        placeholder_text: /* TODO */
+  - name: src/Coin.java
+    visible: true

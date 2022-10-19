@@ -1,23 +1,23 @@
 type: edu
 files:
-- name: src/Car.java
-  visible: true
-  placeholders:
-  - offset: 90
-    length: 112
-    placeholder_text: /* TODO */
-  - offset: 241
-    length: 11
-    placeholder_text: /* TODO */
-  - offset: 305
-    length: 16
-    placeholder_text: /* TODO */
-  - offset: 372
-    length: 70
-    placeholder_text: /* TODO */
-- name: test/CarTest.java
-  visible: true
-  placeholders:
-  - offset: 76
-    length: 225
-    placeholder_text: /* TODO */
+  - name: src/Car.java
+    visible: true
+    placeholders:
+      - offset: 90
+        length: 112
+        placeholder_text: /* TODO */
+      - offset: 241
+        length: 11
+        placeholder_text: /* TODO */
+      - offset: 305
+        length: 16
+        placeholder_text: /* TODO */
+      - offset: 372
+        length: 70
+        placeholder_text: /* TODO */
+  - name: test/CarTest.java
+    visible: true
+    placeholders:
+      - offset: 76
+        length: 225
+        placeholder_text: /* TODO */

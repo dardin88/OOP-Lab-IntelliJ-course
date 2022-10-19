@@ -5,7 +5,7 @@ import org.junit.Test;
 public class BankTest {
 
     @Before
-    public void setup(){
+    public void setup() {
         BankAccount.totalNumberOfAccounts = 0;
     }
 

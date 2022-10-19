@@ -1,0 +1,19 @@
+type: edu
+files:
+  - name: src/it/unisa/student/Student.java
+    visible: true
+    placeholders:
+      - offset: 100
+        length: 31
+        placeholder_text: /* TODO */
+      - offset: 924
+        length: 127
+        placeholder_text: /* TODO */
+  - name: test/it/unisa/student/StudentTest.java
+    visible: true
+    placeholders:
+      - offset: 1405
+        length: 715
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/student/Exam.java
+    visible: true

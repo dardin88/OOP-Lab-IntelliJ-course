@@ -97,7 +97,7 @@ public class TicTacToe {
 
         // and the second diagonal...
 
-        for (int j = 2, i = 0; j >= 0; j--, i++){
+        for (int j = 2, i = 0; j >= 0; j--, i++) {
             if (board[i][j].equals(player1)) {
                 correctElementsForPlayer1++;
                 if (correctElementsForPlayer1 == 3) {

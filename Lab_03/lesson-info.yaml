@@ -1,8 +1,8 @@
 content:
-- Dice
-- Purse
-- Bank
-- Tic-tac-toe
-- MagicSquare
-- PhoneCompany
-- CarSeller
+  - Dice
+  - Purse
+  - Bank
+  - Tic-tac-toe
+  - MagicSquare
+  - PhoneCompany
+  - CarSeller

@@ -1,10 +1,10 @@
 content:
-- StringClass
-- PrintMiddleChar
-- FirstAndLastInverted
-- InvertHalfString
-- CharAt
-- IndexOf
-- UpperCaseInitial
-- StringBuilder
-- Rectangle
+  - StringClass
+  - PrintMiddleChar
+  - FirstAndLastInverted
+  - InvertHalfString
+  - CharAt
+  - IndexOf
+  - UpperCaseInitial
+  - StringBuilder
+  - Rectangle

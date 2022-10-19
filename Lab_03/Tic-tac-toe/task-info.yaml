@@ -1,26 +1,26 @@
 type: edu
 files:
-- name: src/TicTacToe.java
-  visible: true
-  placeholders:
-  - offset: 879
-    length: 2875
-    placeholder_text: /* TODO */
-  - offset: 4700
-    length: 442
-    placeholder_text: /* TODO */
-- name: test/TicTacToeTest.java
-  visible: true
-  placeholders:
-  - offset: 135
-    length: 228
-    placeholder_text: /* TODO */
-  - offset: 425
-    length: 228
-    placeholder_text: /* TODO */
-  - offset: 720
-    length: 228
-    placeholder_text: /* TODO */
-  - offset: 1016
-    length: 228
-    placeholder_text: /* TODO */
+  - name: src/TicTacToe.java
+    visible: true
+    placeholders:
+      - offset: 879
+        length: 2876
+        placeholder_text: /* TODO */
+      - offset: 4701
+        length: 442
+        placeholder_text: /* TODO */
+  - name: test/TicTacToeTest.java
+    visible: true
+    placeholders:
+      - offset: 135
+        length: 228
+        placeholder_text: /* TODO */
+      - offset: 425
+        length: 228
+        placeholder_text: /* TODO */
+      - offset: 720
+        length: 228
+        placeholder_text: /* TODO */
+      - offset: 1016
+        length: 228
+        placeholder_text: /* TODO */
