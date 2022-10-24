@@ -19,16 +19,16 @@ files:
     length: 4
     placeholder_text: /* TODO */
   - offset: 531
-    length: 224
+    length: 198
     placeholder_text: /* TODO */
 - name: src/it/unisa/quiz/Quiz.java
   visible: true
   placeholders:
   - offset: 42
-    length: 29
+    length: 27
     placeholder_text: /* TODO */
-  - offset: 241
-    length: 110
+  - offset: 249
+    length: 105
     placeholder_text: /* TODO */
 - name: test/it/unisa/quiz/DataSetTest.java
   visible: true
