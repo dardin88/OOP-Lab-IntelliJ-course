@@ -1,7 +1,7 @@
 # Libretto di risparmio
 
-Scrivere la classe `SavingsAccount` che è del tutto simile alla classe `BankAccount`, tranne che per una variabile di
-istanza aggiuntiva, `interestRate` (tasso di interesse annuo).
+Scrivere la classe `SavingsAccount` che è del tutto simile alla classe `BankAccount`, tranne che per una variabile
+d'istanza aggiuntiva, `interestRate` (tasso di interesse annuo).
 
 Fornire, oltre a tutti i metodi della classe `BankAccount`:
 

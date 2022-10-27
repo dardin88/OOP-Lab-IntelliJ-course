@@ -1,0 +1,48 @@
+type: edu
+files:
+- name: src/it/unisa/bookshop/Book.java
+  visible: true
+- name: src/it/unisa/bookshop/Bookshop.java
+  visible: true
+  placeholders:
+  - offset: 302
+    length: 215
+    placeholder_text: /* TODO */
+  - offset: 597
+    length: 250
+    placeholder_text: /* TODO */
+  - offset: 906
+    length: 570
+    placeholder_text: /* TODO */
+  - offset: 1553
+    length: 220
+    placeholder_text: /* TODO */
+  - offset: 1938
+    length: 898
+    placeholder_text: /* TODO */
+- name: src/it/unisa/bookshop/AudioBook.java
+  visible: true
+  placeholders:
+  - offset: 260
+    length: 89
+    placeholder_text: /* TODO */
+- name: test/testData.txt
+  visible: false
+- name: test/it/unisa/bookshop/BookshopTest.java
+  visible: true
+  placeholders:
+  - offset: 270
+    length: 326
+    placeholder_text: /* TODO */
+  - offset: 659
+    length: 454
+    placeholder_text: /* TODO */
+  - offset: 1182
+    length: 393
+    placeholder_text: /* TODO */
+  - offset: 1645
+    length: 532
+    placeholder_text: /* TODO */
+  - offset: 2249
+    length: 372
+    placeholder_text: /* TODO */

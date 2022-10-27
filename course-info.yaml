@@ -14,8 +14,9 @@ vendor:
 programming_language: Java
 programming_language_version: 17
 content:
-  - Lab_01
-  - Lab_02
-  - Lab_03
-  - Lab_04
-  - Lab_05
+- Lab_01
+- Lab_02
+- Lab_03
+- Lab_04
+- Lab_05
+- Lab_06

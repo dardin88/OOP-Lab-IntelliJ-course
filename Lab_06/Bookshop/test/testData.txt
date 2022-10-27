@@ -1,0 +1,39 @@
+Book
+Una voce di notte
+Camilleri Andrea
+Sellerio Editore Palermo
+44
+Book
+Cinquanta sfumature di grigio
+James E. L.
+Mondadori
+21
+Book
+Il corpo umano
+Giordano Paolo
+Mondadori
+33
+Book
+Sogni rossi
+Mo Yan
+Einaudi
+11
+Book
+Fai bei sogni
+Gramellini Massimo
+Longanesi
+14
+AudioBook
+Il corpo umano
+Giordano Paolo
+Mondadori
+100
+50
+mp3
+AudioBook
+Fai bei sogni
+Gramellini Massimo
+Longanesi
+90
+50
+mp3

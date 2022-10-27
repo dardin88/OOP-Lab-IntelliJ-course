@@ -1,0 +1,12 @@
+type: edu
+files:
+  - name: src/it/unisa/medicaltests/MedicalTest.java
+    visible: true
+  - name: src/it/unisa/medicaltests/Radiography.java
+    visible: true
+  - name: src/it/unisa/medicaltests/Echocardiogram.java
+    visible: true
+  - name: src/it/unisa/medicaltests/MedicalTestList.java
+    visible: true
+  - name: test/it/unisa/medicaltests/MedicalTestListTest.java
+    visible: false

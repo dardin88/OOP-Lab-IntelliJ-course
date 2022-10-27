@@ -1,0 +1,38 @@
+type: edu
+files:
+- name: src/it/unisa/company/Staff.java
+  visible: true
+- name: src/it/unisa/company/Employee.java
+  visible: true
+  placeholders:
+  - offset: 49
+    length: 13
+    placeholder_text: /* TODO */
+  - offset: 130
+    length: 195
+    placeholder_text: /* TODO */
+  - offset: 688
+    length: 90
+    placeholder_text: /* TODO */
+  - offset: 554
+    length: 128
+    placeholder_text: /* TODO */
+- name: src/it/unisa/company/Manager.java
+  visible: true
+  placeholders:
+  - offset: 136
+    length: 260
+    placeholder_text: /* TODO */
+  - offset: 655
+    length: 153
+    placeholder_text: /* TODO */
+  - offset: 814
+    length: 163
+    placeholder_text: /* TODO */
+  - offset: 983
+    length: 383
+    placeholder_text: /* TODO */
+- name: test/it/unisa/company/EmployeeTest.java
+  visible: true
+- name: test/it/unisa/company/ManagerTest.java
+  visible: true

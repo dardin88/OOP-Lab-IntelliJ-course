@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/it/unisa/quiz/Measurable.java
+    visible: true
+    placeholders:
+      - offset: 52
+        length: 31
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/quiz/Quiz.java
+    visible: true
+    placeholders:
+      - offset: 171
+        length: 133
+        placeholder_text: /* TODO */
+      - offset: 310
+        length: 70
+        placeholder_text: /* TODO */
+  - name: test/it/unisa/quiz/DataSetTest.java
+    visible: true
+  - name: src/it/unisa/quiz/DataSet.java
+    visible: true
