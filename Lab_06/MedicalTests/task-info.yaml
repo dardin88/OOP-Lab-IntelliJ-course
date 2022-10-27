@@ -1,12 +1,40 @@
 type: edu
 files:
-  - name: src/it/unisa/medicaltests/MedicalTest.java
-    visible: true
-  - name: src/it/unisa/medicaltests/Radiography.java
-    visible: true
-  - name: src/it/unisa/medicaltests/Echocardiogram.java
-    visible: true
-  - name: src/it/unisa/medicaltests/MedicalTestList.java
-    visible: true
-  - name: test/it/unisa/medicaltests/MedicalTestListTest.java
-    visible: false
+- name: src/it/unisa/medicaltests/MedicalTest.java
+  visible: true
+  placeholders:
+  - offset: 426
+    length: 47
+    placeholder_text: /* TODO */
+  - offset: 263
+    length: 84
+    placeholder_text: /* TODO */
+- name: src/it/unisa/medicaltests/Radiography.java
+  visible: true
+  placeholders:
+  - offset: 284
+    length: 217
+    placeholder_text: /* TODO */
+- name: src/it/unisa/medicaltests/Echocardiogram.java
+  visible: true
+  placeholders:
+  - offset: 325
+    length: 329
+    placeholder_text: /* TODO */
+- name: src/it/unisa/medicaltests/MedicalTestList.java
+  visible: true
+  placeholders:
+  - offset: 381
+    length: 72
+    placeholder_text: /* TODO */
+  - offset: 545
+    length: 242
+    placeholder_text: /* TODO */
+  - offset: 876
+    length: 230
+    placeholder_text: /* TODO */
+  - offset: 1159
+    length: 226
+    placeholder_text: /* TODO */
+- name: test/it/unisa/medicaltests/MedicalTestListTest.java
+  visible: true
