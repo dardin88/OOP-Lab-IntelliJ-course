@@ -3,7 +3,7 @@
 Si supponga di voler progettare e implementare parte del sistema informativo di una azienda di trasporti su rotaia.
 
 Per ogni treno occorrerà tenere traccia delle stazioni di fermata, della stazione di partenza e di quella di arrivo,
-oltre che dei relativi orari. Occorre poi che ad ogni treno sia associato il numero dei posti a sedere disponibili e il
+oltre che dei relativi orari. Occorre poi che a ogni treno sia associato il numero dei posti a sedere disponibili e il
 numero totale di chilometri percorsi.
 
 Nei treni espressi, infine, è previsto anche un servizio ristorante, e anche per questo servizio è necessario tenere
