@@ -3,8 +3,8 @@ package it.unisa.quiz;
 public class DataSet {
 
     private double sum;
-    private Quiz minimum;
-    private Quiz maximum;
+    private Measurable minimum;
+    private Measurable maximum;
     private int count;
 
     public DataSet() {
@@ -19,15 +19,15 @@ public class DataSet {
         else return sum / count;
     }
 
-    public Quiz getMaximum() {
+    public Measurable getMaximum() {
         return maximum;
     }
 
-    public Quiz getMinimum() {
+    public Measurable getMinimum() {
         return minimum;
     }
 
-    public void add(Quiz x) {
+    public void add(Measurable x) {
         sum = sum + x.getMeasure();
         if (count == 0 || x.compareTo(minimum) < 0)
             minimum = x;
