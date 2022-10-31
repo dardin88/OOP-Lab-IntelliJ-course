@@ -1,4 +1,4 @@
-package SMS;
+package it.unisa.SMS;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package SMS;
+package it.unisa.SMS;
 
 import java.util.Comparator;
 import java.util.GregorianCalendar;

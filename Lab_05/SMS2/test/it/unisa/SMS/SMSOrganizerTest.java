@@ -1,4 +1,4 @@
-package SMS;
+package it.unisa.SMS;
 
 import org.junit.Assert;
 import org.junit.Test;
