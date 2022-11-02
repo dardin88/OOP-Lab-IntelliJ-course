@@ -1,0 +1,85 @@
+type: edu
+files:
+- name: src/it/unisa/supermarket/Product.java
+  visible: true
+  placeholders:
+  - offset: 260
+    length: 29
+    placeholder_text: /* TODO */
+  - offset: 548
+    length: 27
+    placeholder_text: /* TODO */
+  - offset: 1041
+    length: 95
+    placeholder_text: /* TODO */
+  - offset: 1184
+    length: 160
+    placeholder_text: /* TODO */
+  - offset: 939
+    length: 27
+    placeholder_text: /* TODO */
+- name: src/it/unisa/supermarket/Grocery.java
+  visible: true
+  placeholders:
+  - offset: 89
+    length: 15
+    placeholder_text: /* TODO */
+  - offset: 875
+    length: 166
+    placeholder_text: /* TODO */
+- name: src/it/unisa/supermarket/Electronic.java
+  visible: true
+  placeholders:
+  - offset: 55
+    length: 15
+    placeholder_text: /* TODO */
+  - offset: 1047
+    length: 197
+    placeholder_text: /* TODO */
+- name: src/it/unisa/supermarket/Supermarket.java
+  visible: true
+  placeholders:
+  - offset: 309
+    length: 80
+    placeholder_text: /* TODO */
+  - offset: 520
+    length: 209
+    placeholder_text: /* TODO */
+  - offset: 780
+    length: 70
+    placeholder_text: /* TODO */
+  - offset: 901
+    length: 70
+    placeholder_text: /* TODO */
+  - offset: 1033
+    length: 207
+    placeholder_text: /* TODO */
+- name: src/it/unisa/supermarket/ProductComparatorByCode.java
+  visible: true
+  placeholders:
+  - offset: 136
+    length: 141
+    placeholder_text: /* TODO */
+  - offset: 98
+    length: 30
+    placeholder_text: /* TODO */
+- name: src/it/unisa/supermarket/ProductComparatorByPrice.java
+  visible: true
+  placeholders:
+  - offset: 31
+    length: 28
+    placeholder_text: /* TODO */
+  - offset: 99
+    length: 30
+    placeholder_text: /* TODO */
+  - offset: 137
+    length: 149
+    placeholder_text: /* TODO */
+- name: test/it/unisa/supermarket/SupermarketTest.java
+  visible: true
+- name: test/it/unisa/supermarket/ProductTest.java
+  visible: true
+- name: test/it/unisa/supermarket/GroceryTest.java
+  visible: true
+- name: test/it/unisa/supermarket/ElectronicTest.java
+  visible: true
