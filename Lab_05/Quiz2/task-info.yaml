@@ -1,44 +1,44 @@
 type: edu
 files:
-  - name: src/it/unisa/quiz/DataSet.java
-    visible: true
-    placeholders:
-      - offset: 84
-        length: 4
-        placeholder_text: /* TODO */
-      - offset: 110
-        length: 4
-        placeholder_text: /* TODO */
-      - offset: 380
-        length: 4
-        placeholder_text: /* TODO */
-      - offset: 442
-        length: 4
-        placeholder_text: /* TODO */
-      - offset: 513
-        length: 4
-        placeholder_text: /* TODO */
-      - offset: 531
-        length: 198
-        placeholder_text: /* TODO */
-  - name: src/it/unisa/quiz/Quiz.java
-    visible: true
-    placeholders:
-      - offset: 42
-        length: 27
-        placeholder_text: /* TODO */
-      - offset: 249
-        length: 105
-        placeholder_text: /* TODO */
-  - name: test/it/unisa/quiz/DataSetTest.java
-    visible: true
-    placeholders:
-      - offset: 150
-        length: 276
-        placeholder_text: /* TODO */
-      - offset: 484
-        length: 276
-        placeholder_text: /* TODO */
-      - offset: 818
-        length: 261
-        placeholder_text: /* TODO */
+- name: src/it/unisa/quiz/DataSet.java
+  visible: true
+  placeholders:
+  - offset: 84
+    length: 4
+    placeholder_text: /* TODO */
+  - offset: 110
+    length: 4
+    placeholder_text: /* TODO */
+  - offset: 380
+    length: 4
+    placeholder_text: /* TODO */
+  - offset: 442
+    length: 4
+    placeholder_text: /* TODO */
+  - offset: 513
+    length: 4
+    placeholder_text: /* TODO */
+  - offset: 531
+    length: 198
+    placeholder_text: /* TODO */
+- name: src/it/unisa/quiz/Quiz.java
+  visible: true
+  placeholders:
+  - offset: 42
+    length: 27
+    placeholder_text: /* TODO */
+  - offset: 249
+    length: 105
+    placeholder_text: /* TODO */
+- name: test/it/unisa/quiz/DataSetTest.java
+  visible: true
+  placeholders:
+  - offset: 150
+    length: 276
+    placeholder_text: /* TODO */
+  - offset: 484
+    length: 276
+    placeholder_text: /* TODO */
+  - offset: 818
+    length: 261
+    placeholder_text: /* TODO */

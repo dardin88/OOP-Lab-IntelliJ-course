@@ -4,10 +4,6 @@ files:
   visible: true
 - name: src/it/unisa/SMS/SMS.java
   visible: true
-  placeholders:
-  - offset: 815
-    length: 436
-    placeholder_text: /* TODO */
 - name: src/it/unisa/SMS/SMSOrganizer.java
   visible: true
   placeholders:
