@@ -27,7 +27,7 @@ files:
     length: 89
     placeholder_text: /* TODO */
 - name: test/testData.txt
-  visible: false
+  visible: true
 - name: test/it/unisa/bookshop/BookshopTest.java
   visible: true
   placeholders:
