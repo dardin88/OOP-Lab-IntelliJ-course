@@ -1,0 +1,30 @@
+type: edu
+files:
+- name: test/it/unisa/bank/BankTest.java
+  visible: true
+  placeholders:
+  - offset: 2776
+    length: 278
+    placeholder_text: /* TODO */
+  - offset: 2494
+    length: 276
+    placeholder_text: /* TODO */
+- name: src/it/unisa/bank/Bank.java
+  visible: true
+- name: src/it/unisa/bank/BankAccount.java
+  visible: true
+  placeholders:
+  - offset: 563
+    length: 31
+    placeholder_text: /* TODO */
+  - offset: 605
+    length: 85
+    placeholder_text: /* TODO */
+  - offset: 1011
+    length: 77
+    placeholder_text: /* TODO */
+  - offset: 1296
+    length: 83
+    placeholder_text: /* TODO */
+- name: src/it/unisa/bank/SavingAccount.java
+  visible: true
