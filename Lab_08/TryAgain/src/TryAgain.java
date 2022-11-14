@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class TryAgain {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double sum = 0;
