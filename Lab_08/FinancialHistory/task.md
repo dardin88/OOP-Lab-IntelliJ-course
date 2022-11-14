@@ -19,7 +19,7 @@ classe `Movement` contenente al suo interno una stringa `description` e l’`amo
 Un’entrata sarà rappresentata da un `Movement` con `amount` positivo, mentre un’uscita avrà un valore negativo.
 
 Si trattino con eccezioni delle seguenti situazioni:
-- "bilancio in rosso" nel costruttore (i.e., imposta il bilancio in negativo);
+- "bilancio in rosso" nel costruttore (i.e., imposta il saldo in negativo);
 - "bilancio in rosso” (cioè si tenta di spendere più di quel che si ha).
 
 Implementare i casi di test per collaudare il tutto.
