@@ -1,0 +1,37 @@
+type: edu
+files:
+- name: test/it/unisa/phonecompany/PhoneCompanyTest.java
+  visible: true
+  placeholders:
+  - offset: 2049
+    length: 880
+    placeholder_text: /* TODO */
+  - offset: 1039
+    length: 934
+    placeholder_text: /* TODO */
+- name: src/it/unisa/phonecompany/PhoneCompany.java
+  visible: true
+  placeholders:
+  - offset: 1709
+    length: 495
+    placeholder_text: /* TODO */
+  - offset: 2216
+    length: 485
+    placeholder_text: /* TODO */
+  - offset: 2845
+    length: 143
+    placeholder_text: /* TODO */
+  - offset: 3078
+    length: 143
+    placeholder_text: /* TODO */
+  - offset: 760
+    length: 808
+    placeholder_text: /* TODO */
+- name: src/it/unisa/phonecompany/User.java
+  visible: true
+  placeholders:
+  - offset: 79
+    length: 24
+    placeholder_text: /* TODO */
+- name: test/testData.txt
+  visible: true

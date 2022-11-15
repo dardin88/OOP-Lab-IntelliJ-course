@@ -1,0 +1,16 @@
+Tesla
+Model Y
+2020
+35000.0
+Fiat
+Punto
+2005
+1500.0
+Opel
+Corsa
+2008
+2100.0
+Tesla
+Model Y
+2022
+60000.0
