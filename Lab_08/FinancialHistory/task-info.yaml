@@ -6,23 +6,20 @@ files:
   - offset: 295
     length: 217
     placeholder_text: /* TODO */
-  - offset: 585
-    length: 81
-    placeholder_text: /* TODO */
-  - offset: 736
-    length: 188
-    placeholder_text: /* TODO */
-  - offset: 973
+  - offset: 1185
     length: 15
     placeholder_text: /* TODO */
-  - offset: 1057
+  - offset: 1269
     length: 240
     placeholder_text: /* TODO */
-  - offset: 1362
+  - offset: 1574
     length: 231
     placeholder_text: /* TODO */
-  - offset: 1644
+  - offset: 1856
     length: 120
+    placeholder_text: /* TODO */
+  - offset: 585
+    length: 81
     placeholder_text: /* TODO */
 - name: src/it/unisa/financialhistory/Person.java
   visible: true

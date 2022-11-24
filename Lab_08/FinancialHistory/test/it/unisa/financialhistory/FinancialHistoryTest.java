@@ -23,7 +23,7 @@ public class FinancialHistoryTest {
     public void spendForTest() {
         Person p = new Person("Alice", "Rossi", 1997, "aliros", "testPassword");
         FinancialHistory fh = new FinancialHistory(p, 1000);
-        fh.spendFor(400, "Affitto");
+        fh.spendFor(-400, "Affitto");
         Assert.assertEquals(600, fh.cashOnHand(), 0);
     }
 
@@ -42,9 +42,9 @@ public class FinancialHistoryTest {
         Person p = new Person("Alice", "Rossi", 1997, "aliros", "testPassword");
         FinancialHistory fh = new FinancialHistory(p, 1000);
         fh.receiveFrom(1000, "Stipendio");
-        fh.spendFor(400, "Affitto");
+        fh.spendFor(-400, "Affitto");
         fh.receiveFrom(1000, "Stipendio");
-        fh.spendFor(400, "Affitto");
-        Assert.assertEquals(800, fh.totalReceivedFrom("Affitto"), 0);
+        fh.spendFor(-400, "Affitto");
+        Assert.assertEquals(-800, fh.totalSpentFor("Affitto"), 0);
     }
 }
