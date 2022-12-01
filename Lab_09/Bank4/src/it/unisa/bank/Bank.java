@@ -4,7 +4,6 @@ import java.io.*;
 import java.nio.file.FileAlreadyExistsException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class Bank {
@@ -71,7 +70,7 @@ public class Bank {
                     SavingAccount savingAccount = new SavingAccount(accountNumber, customerName, balance, interestRate);
                     this.accounts.add(savingAccount);
                 }
-            } catch (NoSuchElementException | NumberFormatException ex) {
+            } catch (NumberFormatException ex) {
                 System.err.println("Il formato del file è errato!");
                 ex.printStackTrace();
             }
