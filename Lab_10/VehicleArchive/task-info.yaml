@@ -1,0 +1,24 @@
+type: theory
+files:
+- name: src/it/unisa/vehiclearchive/Vehicle.java
+  visible: true
+- name: src/it/unisa/vehiclearchive/MotorVehicle.java
+  visible: true
+- name: src/it/unisa/vehiclearchive/MotorCycle.java
+  visible: true
+- name: src/it/unisa/vehiclearchive/WrongLicensePlateException.java
+  visible: true
+- name: src/it/unisa/vehiclearchive/BadDataFormatException.java
+  visible: true
+- name: src/it/unisa/vehiclearchive/VehicleManager.java
+  visible: true
+- name: src/it/unisa/vehiclearchive/gui/VehicleFrame.java
+  visible: true
+- name: src/it/unisa/vehiclearchive/gui/VehicleGUI.java
+  visible: true
+- name: src/main/resources/vehicles.txt
+  visible: true
+- name: src/it/unisa/vehiclearchive/gui/InsertMotorVehiclePanel.java
+  visible: true
+- name: src/it/unisa/vehiclearchive/gui/InsertMotorCyclePanel.java
+  visible: true
