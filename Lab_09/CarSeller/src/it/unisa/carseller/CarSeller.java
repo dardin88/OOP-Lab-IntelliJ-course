@@ -27,6 +27,7 @@ public class CarSeller {
                 ex.printStackTrace();
             }
         }
+        input.close();
     }
 
     public void writeUserDataToFile(File file, boolean overwrite) throws FileNotFoundException, FileAlreadyExistsException {
