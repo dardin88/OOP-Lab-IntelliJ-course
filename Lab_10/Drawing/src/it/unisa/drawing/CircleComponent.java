@@ -11,18 +11,18 @@ public class CircleComponent extends JComponent {
     private final Color fillColor;
     private final Color borderColor;
 
-    public CircleComponent(float radius, float x, float y) {
+    public CircleComponent(float diameter, float x, float y) {
         this.fillColor = new Color(0, 0, 0, 1);
         this.borderColor = Color.BLACK;
-        this.circle = new Ellipse2D.Double(x, y, radius, radius);
-        this.circleBorder = new Ellipse2D.Double(x, y, radius, radius);
+        this.circle = new Ellipse2D.Double(x, y, diameter, diameter);
+        this.circleBorder = new Ellipse2D.Double(x, y, diameter, diameter);
     }
 
-    public CircleComponent(Color fillColor, Color borderColor, float radius, float x, float y) {
+    public CircleComponent(Color fillColor, Color borderColor, float diameter, float x, float y) {
         this.fillColor = fillColor;
         this.borderColor = borderColor;
-        this.circle = new Ellipse2D.Double(x, y, radius, radius);
-        this.circleBorder = new Ellipse2D.Double(x, y, radius, radius);
+        this.circle = new Ellipse2D.Double(x, y, diameter, diameter);
+        this.circleBorder = new Ellipse2D.Double(x, y, diameter, diameter);
     }
 
     public void paintComponent(Graphics g) {
