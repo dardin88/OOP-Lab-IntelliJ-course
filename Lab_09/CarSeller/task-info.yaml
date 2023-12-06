@@ -10,30 +10,30 @@ files:
     visible: true
     placeholders:
       - offset: 329
-        length: 688
+        length: 711
         placeholder_text: /* TODO */
-      - offset: 1090
+      - offset: 1113
         length: 57
         placeholder_text: /* TODO */
-      - offset: 1158
+      - offset: 1181
         length: 495
         placeholder_text: /* TODO */
-      - offset: 1665
+      - offset: 1688
         length: 390
         placeholder_text: /* TODO */
-      - offset: 2199
+      - offset: 2222
         length: 141
         placeholder_text: /* TODO */
-      - offset: 2430
+      - offset: 2453
         length: 142
         placeholder_text: /* TODO */
-      - offset: 2717
+      - offset: 2740
         length: 259
         placeholder_text: /* TODO */
-      - offset: 3087
+      - offset: 3110
         length: 350
         placeholder_text: /* TODO */
-      - offset: 3582
+      - offset: 3605
         length: 450
         placeholder_text: /* TODO */
   - name: test/it/unisa/carseller/CarSellerTest.java
