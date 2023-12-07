@@ -1,39 +1,37 @@
 type: edu
 files:
-- name: test/it/unisa/bank/BankTest.java
-  visible: true
-  placeholders:
-  - offset: 3313
-    length: 734
-    placeholder_text: /* TODO */
-  - offset: 4123
-    length: 733
-    placeholder_text: /* TODO */
-- name: src/it/unisa/bank/Bank.java
-  visible: true
-  placeholders:
-  - offset: 1537
-    length: 1154
-    placeholder_text: /* TODO */
-  - offset: 2832
-    length: 495
-    placeholder_text: /* TODO */
-  - offset: 3339
-    length: 588
-    placeholder_text: /* TODO */
-  - offset: 4071
-    length: 153
-    placeholder_text: /* TODO */
-  - offset: 4314
-    length: 146
-    placeholder_text: /* TODO */
-- name: src/it/unisa/bank/BankAccount.java
-  visible: true
-  placeholders:
-  - offset: 78
-    length: 24
-    placeholder_text: /* TODO */
-- name: src/it/unisa/bank/SavingAccount.java
-  visible: true
-- name: test/testData.txt
-  visible: false
+  - name: test/it/unisa/bank/BankTest.java
+    visible: true
+    placeholders:
+      - offset: 3313
+        length: 734
+        placeholder_text: /* TODO */
+      - offset: 4123
+        length: 733
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/bank/Bank.java
+    visible: true
+    placeholders:
+      - offset: 1537
+        length: 1155
+        placeholder_text: /* TODO */
+      - offset: 2833
+        length: 495
+        placeholder_text: /* TODO */
+      - offset: 3423
+        length: 499
+        placeholder_text: /* TODO */
+      - offset: 4072
+        length: 153
+        placeholder_text: /* TODO */
+      - offset: 4315
+        length: 146
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/bank/BankAccount.java
+    visible: true
+    placeholders:
+      - offset: 78
+        length: 24
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/bank/SavingAccount.java
+    visible: true

@@ -12,29 +12,20 @@ files:
   - name: src/it/unisa/phonecompany/PhoneCompany.java
     visible: true
     placeholders:
-      - offset: 456
-        length: 145
-        placeholder_text: /* TODO */
       - offset: 760
         length: 831
         placeholder_text: /* TODO */
       - offset: 1732
         length: 495
         placeholder_text: /* TODO */
-      - offset: 2239
-        length: 485
+      - offset: 2322
+        length: 396
         placeholder_text: /* TODO */
       - offset: 2868
         length: 143
         placeholder_text: /* TODO */
-      - offset: 3901
+      - offset: 3101
         length: 143
-        placeholder_text: /* TODO */
-      - offset: 3295
-        length: 154
-        placeholder_text: /* TODO */
-      - offset: 3500
-        length: 224
         placeholder_text: /* TODO */
   - name: src/it/unisa/phonecompany/User.java
     visible: true

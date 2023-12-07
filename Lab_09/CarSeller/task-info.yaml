@@ -12,29 +12,17 @@ files:
       - offset: 329
         length: 711
         placeholder_text: /* TODO */
-      - offset: 1113
-        length: 57
-        placeholder_text: /* TODO */
       - offset: 1181
         length: 495
         placeholder_text: /* TODO */
-      - offset: 1688
-        length: 390
+      - offset: 1771
+        length: 301
         placeholder_text: /* TODO */
       - offset: 2222
         length: 141
         placeholder_text: /* TODO */
       - offset: 2453
         length: 142
-        placeholder_text: /* TODO */
-      - offset: 2740
-        length: 259
-        placeholder_text: /* TODO */
-      - offset: 3110
-        length: 350
-        placeholder_text: /* TODO */
-      - offset: 3605
-        length: 450
         placeholder_text: /* TODO */
   - name: test/it/unisa/carseller/CarSellerTest.java
     visible: true
