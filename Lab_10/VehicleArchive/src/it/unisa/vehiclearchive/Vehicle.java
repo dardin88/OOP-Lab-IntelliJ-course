@@ -7,12 +7,7 @@ public class Vehicle {
     private String licensePlate;
     private final int year;
 
-    public Vehicle(String brand, String model, String licensePlate, int year) throws WrongLicensePlateException {
-
-        if ((!licensePlate.matches("[A-Z]{2}[0-9]{3}[A-Z]{2}") && (!licensePlate.matches("[A-Z]{2}[0-9]{5}")))) {
-            throw new WrongLicensePlateException();
-        }
-
+    public Vehicle(String brand, String model, String licensePlate, int year) {
         this.brand = brand;
         this.model = model;
         this.licensePlate = licensePlate;

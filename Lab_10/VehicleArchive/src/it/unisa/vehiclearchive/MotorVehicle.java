@@ -12,6 +12,11 @@ public class MotorVehicle extends Vehicle {
 
     public MotorVehicle(String brand, String model, String licensePlate, int year, SupplyType supply, int numberOfDoors, int numberOfSeats) throws WrongLicensePlateException {
         super(brand, model, licensePlate, year);
+
+        if (!licensePlate.matches("[A-Z]{2}[0-9]{3}[A-Z]{2}")) {
+            throw new WrongLicensePlateException();
+        }
+
         this.supply = supply;
         this.numberOfDoors = numberOfDoors;
         this.numberOfSeats = numberOfSeats;
