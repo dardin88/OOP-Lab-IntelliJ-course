@@ -13,18 +13,18 @@ files:
   visible: true
   placeholders:
   - offset: 1537
-    length: 1132
+    length: 1154
     placeholder_text: /* TODO */
-  - offset: 2810
+  - offset: 2832
     length: 495
     placeholder_text: /* TODO */
-  - offset: 3317
+  - offset: 3339
     length: 588
     placeholder_text: /* TODO */
-  - offset: 4049
+  - offset: 4071
     length: 153
     placeholder_text: /* TODO */
-  - offset: 4292
+  - offset: 4314
     length: 146
     placeholder_text: /* TODO */
 - name: src/it/unisa/bank/BankAccount.java

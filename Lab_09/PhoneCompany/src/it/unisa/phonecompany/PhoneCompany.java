@@ -43,6 +43,7 @@ public class PhoneCompany {
                 ex.printStackTrace();
             }
         }
+        input.close();
     }
 
     public void writeUserDataToFile(File file, boolean overwrite) throws FileNotFoundException, FileAlreadyExistsException {
