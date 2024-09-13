@@ -3,10 +3,10 @@ files:
   - name: src/TicTacToe.java
     visible: true
     placeholders:
-      - offset: 879
+      - offset: 903
         length: 2876
         placeholder_text: /* TODO */
-      - offset: 4701
+      - offset: 4725
         length: 442
         placeholder_text: /* TODO */
   - name: test/TicTacToeTest.java

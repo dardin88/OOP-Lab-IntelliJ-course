@@ -57,15 +57,15 @@ public class CarSellerTest {
         try {
             //Read the file, change the price of the first car, and save it
             carSeller.readUserDataFromFile(file);
-            carSeller.getCars().get(0).setPrice(40000);
+            carSeller.getCars().getFirst().setPrice(40000);
             carSeller.writeUserDataToFile(file, true);
 
             //Read the file to assert that it was correctly written
             carSeller.readUserDataFromFile(file);
-            Assert.assertEquals(40000, carSeller.getCars().get(0).getPrice(), 0);
+            Assert.assertEquals(40000, carSeller.getCars().getFirst().getPrice(), 0);
 
             //Restore the original price
-            carSeller.getCars().get(0).setPrice(35000);
+            carSeller.getCars().getFirst().setPrice(35000);
             carSeller.writeUserDataToFile(file, true);
         } catch (FileNotFoundException | FileAlreadyExistsException e) {
             throw new RuntimeException(e);

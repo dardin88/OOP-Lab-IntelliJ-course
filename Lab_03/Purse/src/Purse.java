@@ -37,9 +37,9 @@ public class Purse {
     }
 
     public Coin getMinimum() {
-        if (coins.size() == 0) return null;
+        if (coins.isEmpty()) return null;
 
-        Coin min = coins.get(0);
+        Coin min = coins.getFirst();
         for (Coin c : coins) {
             if (c.getValue() < min.getValue()) min = c;
         }
@@ -47,9 +47,9 @@ public class Purse {
     }
 
     public Coin getMaximum() {
-        if (coins.size() == 0) return null;
+        if (coins.isEmpty()) return null;
 
-        Coin max = coins.get(0);
+        Coin max = coins.getFirst();
         for (Coin c : coins) {
             if (c.getValue() > max.getValue()) max = c;
         }

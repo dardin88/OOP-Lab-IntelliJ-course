@@ -33,7 +33,7 @@ public class BookshopTest {
         }
         List<Book> books = library.findByAuthor("Camilleri Andrea");
         Assert.assertEquals(1, books.size());
-        Assert.assertEquals("Una voce di notte", books.get(0).getTitle());
+        Assert.assertEquals("Una voce di notte", books.getFirst().getTitle());
     }
 
     @Test
@@ -46,7 +46,7 @@ public class BookshopTest {
             throw new RuntimeException(e);
         }
         List<Book> books = library.findByTitleContent("Sogni");
-        Assert.assertEquals("Mo Yan", books.get(0).getAuthor());
+        Assert.assertEquals("Mo Yan", books.getFirst().getAuthor());
     }
 
     @Test
@@ -59,9 +59,9 @@ public class BookshopTest {
             throw new RuntimeException(e);
         }
         List<Book> books = library.findMaxAvailable();
-        Assert.assertEquals("Il corpo umano", books.get(0).getTitle());
-        Assert.assertEquals("Giordano Paolo", books.get(0).getAuthor());
-        Assert.assertEquals("Mondadori", books.get(0).getEditor());
+        Assert.assertEquals("Il corpo umano", books.getFirst().getTitle());
+        Assert.assertEquals("Giordano Paolo", books.getFirst().getAuthor());
+        Assert.assertEquals("Mondadori", books.getFirst().getEditor());
     }
 
     @Test

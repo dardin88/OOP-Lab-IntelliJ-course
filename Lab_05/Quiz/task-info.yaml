@@ -12,11 +12,11 @@ files:
       - offset: 426
         length: 15
         placeholder_text: /* TODO */
-      - offset: 561
-        length: 224
-        placeholder_text: /* TODO */
       - offset: 494
         length: 15
+        placeholder_text: /* TODO */
+      - offset: 561
+        length: 224
         placeholder_text: /* TODO */
   - name: src/it/unisa/quiz/Measurable.java
     visible: true

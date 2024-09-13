@@ -40,7 +40,7 @@ public class Bookshop {
                 return Integer.compare(book.numberOfCopies, t1.numberOfCopies);
             }
         }));
-        int maxAvailableCopiesPerBook = this.bookshop.get(0).numberOfCopies;
+        int maxAvailableCopiesPerBook = this.bookshop.getFirst().numberOfCopies;
 
         for (Book b : this.bookshop) {
             if (b.getNumberOfCopies() == maxAvailableCopiesPerBook) {

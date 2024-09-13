@@ -34,15 +34,15 @@ public class PhoneCompanyTest {
         try {
             //Read the file, change the number of used minutes for the first user, and save it
             phoneCompany.readUserDataFromFile(file);
-            phoneCompany.getUsers().get(0).setUsedMinutes(500);
+            phoneCompany.getUsers().getFirst().setUsedMinutes(500);
             phoneCompany.writeUserDataToFile(file, true);
 
             //Read the file to assert that it was correctly written
             phoneCompany.readUserDataFromFile(file);
-            Assert.assertEquals(500, phoneCompany.getUsers().get(0).getUsedMinutes(), 0);
+            Assert.assertEquals(500, phoneCompany.getUsers().getFirst().getUsedMinutes(), 0);
 
             //Restore the original number of used minutes
-            phoneCompany.getUsers().get(0).setUsedMinutes(200);
+            phoneCompany.getUsers().getFirst().setUsedMinutes(200);
             phoneCompany.writeUserDataToFile(file, true);
         } catch (FileNotFoundException | FileAlreadyExistsException e) {
             throw new RuntimeException(e);
