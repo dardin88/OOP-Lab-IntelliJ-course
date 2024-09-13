@@ -11,7 +11,7 @@ tra gli altri i seguenti metodi:
 
 Definire due sottoclassi `Radiography` ed `Echocardiogram`.
 
-`Radiography` è caratterizzata dal nome del file contenente l’immagine, dal nome dell’organo radiografato (es. torace,
+`Radiography` è caratterizzata dal nome del file contenente l’immagine, dal nome dell’organo radiografato (e.g., torace,
 polmone, braccio) e da un’impegnativa che indichi se la radiografia è stata richiesta da un medico. Il costo di una
 radiografia è 20€ senza impegnativa e 13€ con l’impegnativa.
 

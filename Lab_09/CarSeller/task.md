@@ -1,7 +1,7 @@
 # Concessionaria Auto
 
 Una concessionaria di auto usate ha deciso di organizzare le proprie giacenze in un archivio elettronico. L’archivio è
-realizzato mediante un file che associa ad ogni auto disponibile quattro righe successive con le seguenti informazioni:
+realizzato mediante un file che associa a ogni auto disponibile quattro righe successive con le seguenti informazioni:
 
 - la prima riga contiene la marca dell’auto (es. Tesla)
 - la seconda il modello di auto (es. Model Y)
