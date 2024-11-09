@@ -10,7 +10,7 @@ Implementare:
 
 Definire un’eccezione controllata `WrongLicensePlateException e` un’eccezione non controllata `BadDataFormatException`.
 
-Scrivere una classe `VehicleManager` che modelli un insieme di automezzi ed una classe `VehicleGUI` che includa tutti i
+Scrivere una classe `VehicleManager` che modelli un insieme di automezzi e una classe `VehicleGUI` che includa tutti i
 metodi necessari all’implementazione dell’interfaccia grafica per:
 
 - caricare da un file e salvare in un file una lista di automezzi, lanciare l’eccezione `BadDataFormatException`

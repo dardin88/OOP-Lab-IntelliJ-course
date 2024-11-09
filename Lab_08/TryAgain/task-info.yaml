@@ -1,8 +1,8 @@
 type: theory
 files:
-- name: src/TryAgain.java
-  visible: true
-  placeholders:
-  - offset: 167
-    length: 415
-    placeholder_text: /* TODO */
+  - name: src/TryAgain.java
+    visible: true
+    placeholders:
+      - offset: 167
+        length: 415
+        placeholder_text: /* TODO */

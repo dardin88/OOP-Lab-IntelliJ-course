@@ -3,7 +3,7 @@ title: Laboratorio di Object Oriented Programming in Java
 language: Italian
 summary: |-
   This is a collection of lab sessions for an Object Oriented Programming course in Italian.
-  Questo corso contiene alcune lezioni di laboratorio del corso di Programmazione Orientata agli Oggetti AA 2023/24
+  Questo corso contiene alcune lezioni di laboratorio del corso di Programmazione Orientata agli Oggetti AA 2024/25
   (congrua 2) tenuto al Dipartimento di Informatica dell'Università degli Studi di Salerno:
   - Il corso è pensato per studenti con basi di programmazione procedurale.
   - Il corso copre alcune funzionalità principali di Java.
@@ -12,7 +12,7 @@ summary: |-
 vendor:
   name: Dario Di Nucci
 programming_language: Java
-programming_language_version: 17
+programming_language_version: 21
 content:
   - Lab_01
   - Lab_02
@@ -25,4 +25,4 @@ content:
   - Lab_09
   - Lab_10
 environment_settings:
-  jvm_language_level: JDK_17
+  jvm_language_level: JDK_21

@@ -1,40 +1,29 @@
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
 public class FirstAndLastWord {
 
-    List<String> stringList;
+    private final List<String> stringList;
 
     public FirstAndLastWord(List<String> stringList) {
         this.stringList = stringList;
     }
 
     public void sort() {
-        stringList.sort(new Comparator<>() {
-            @Override
-            public int compare(String s1, String s2) {
-                return s1.compareTo(s2);
-            }
-        });
+        stringList.sort(String::compareTo);
     }
 
     public void sortIgnoreCase() {
-        stringList.sort(new Comparator<>() {
-            @Override
-            public int compare(String s1, String s2) {
-                return s1.compareToIgnoreCase(s2);
-            }
-        });
+        stringList.sort(String::compareToIgnoreCase);
     }
 
     public String getFirst() {
-        return stringList.get(0);
+        return stringList.getFirst();
     }
 
     public String getLast() {
-        return stringList.get(stringList.size() - 1);
+        return stringList.getLast();
     }
 
     public static void main(String[] args) {

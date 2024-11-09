@@ -3,13 +3,13 @@ files:
   - name: src/Student.java
     visible: true
     placeholders:
-      - offset: 233
+      - offset: 247
         length: 101
         placeholder_text: /* TODO */
-      - offset: 590
+      - offset: 604
         length: 21
         placeholder_text: /* TODO */
-      - offset: 669
+      - offset: 683
         length: 185
         placeholder_text: /* TODO */
   - name: src/Exam.java

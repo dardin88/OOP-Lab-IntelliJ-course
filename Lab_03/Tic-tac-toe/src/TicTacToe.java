@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class TicTacToe {
 
     private final String[][] board;
-    static int ROWS = 3;
-    static int COLUMNS = 3;
-    static String player1 = "x";
-    static String player2 = "o";
+    static final int ROWS = 3;
+    static final int COLUMNS = 3;
+    static final String player1 = "x";
+    static final String player2 = "o";
 
     public TicTacToe() {
         board = new String[ROWS][COLUMNS];

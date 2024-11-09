@@ -4,7 +4,7 @@ import java.util.List;
 public class Student {
     private final String firstName;
     private final String lastName;
-    List<Exam> exams;
+    private final List<Exam> exams;
 
     public Student(String firstName, String lastName) {
         this.firstName = firstName;

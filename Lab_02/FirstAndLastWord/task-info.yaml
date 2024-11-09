@@ -3,7 +3,7 @@ files:
   - name: src/FirstAndLastWord.java
     visible: true
     placeholders:
-      - offset: 948
+      - offset: 630
         length: 917
         placeholder_text: /* TODO */
   - name: test/FirstAndLastWordTest.java

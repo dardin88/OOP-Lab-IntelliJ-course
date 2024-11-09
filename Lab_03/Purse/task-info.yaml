@@ -13,24 +13,24 @@ files:
         length: 140
         placeholder_text: /* TODO */
       - offset: 916
-        length: 186
+        length: 188
         placeholder_text: /* TODO */
-      - offset: 1149
-        length: 186
+      - offset: 1151
+        length: 188
         placeholder_text: /* TODO */
-      - offset: 1382
+      - offset: 1386
         length: 97
         placeholder_text: /* TODO */
-      - offset: 1531
+      - offset: 1535
         length: 19
         placeholder_text: /* TODO */
-      - offset: 1606
+      - offset: 1610
         length: 28
         placeholder_text: /* TODO */
-      - offset: 1695
+      - offset: 1699
         length: 290
         placeholder_text: /* TODO */
-      - offset: 2053
+      - offset: 2057
         length: 423
         placeholder_text: /* TODO */
   - name: test/PurseTest.java

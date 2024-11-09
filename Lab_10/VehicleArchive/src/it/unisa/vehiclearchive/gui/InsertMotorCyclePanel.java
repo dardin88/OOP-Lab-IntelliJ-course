@@ -5,12 +5,12 @@ import java.awt.*;
 
 public class InsertMotorCyclePanel extends JPanel {
 
-    protected JTextField brandTextField;
-    protected JTextField modelTextField;
-    protected JTextField licensePlateTextField;
-    protected JTextField yearTextField;
-    protected JComboBox<Integer> numberOfWheelsComboBox;
-    protected JComboBox<Integer> numberOfPassengersComboBox;
+    protected final JTextField brandTextField;
+    protected final JTextField modelTextField;
+    protected final JTextField licensePlateTextField;
+    protected final JTextField yearTextField;
+    protected final JComboBox<Integer> numberOfWheelsComboBox;
+    protected final JComboBox<Integer> numberOfPassengersComboBox;
 
     public InsertMotorCyclePanel() {
         this.setLayout(new GridLayout(8, 1));

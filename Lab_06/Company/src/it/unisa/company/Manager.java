@@ -41,7 +41,7 @@ public class Manager extends Employee {
         } else {
             int extraHours = workedHours - 40;
             float wage = 40 * hourlyWage;
-            wage += extraHours * hourlyWage * 1.5;
+            wage += (float) (extraHours * hourlyWage * 1.5);
             this.setWage(wage);
         }
     }

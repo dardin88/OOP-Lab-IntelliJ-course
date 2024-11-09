@@ -1,40 +1,40 @@
 type: edu
 files:
-- name: src/it/unisa/school/Person.java
-  visible: true
-- name: src/it/unisa/school/Student.java
-  visible: true
-  placeholders:
-  - offset: 47
-    length: 14
-    placeholder_text: /* TODO */
-  - offset: 69
-    length: 29
-    placeholder_text: /* TODO */
-  - offset: 104
-    length: 179
-    placeholder_text: /* TODO */
-  - offset: 289
-    length: 218
-    placeholder_text: /* TODO */
-- name: src/it/unisa/school/Professor.java
-  visible: true
-  placeholders:
-  - offset: 49
-    length: 14
-    placeholder_text: /* TODO */
-  - offset: 71
-    length: 45
-    placeholder_text: /* TODO */
-  - offset: 122
-    length: 189
-    placeholder_text: /* TODO */
-  - offset: 317
-    length: 259
-    placeholder_text: /* TODO */
-- name: test/it/unisa/school/PersonTest.java
-  visible: true
-- name: test/it/unisa/school/ProfessorTest.java
-  visible: true
-- name: test/it/unisa/school/StudentTest.java
-  visible: true
+  - name: src/it/unisa/school/Person.java
+    visible: true
+  - name: src/it/unisa/school/Student.java
+    visible: true
+    placeholders:
+      - offset: 47
+        length: 14
+        placeholder_text: /* TODO */
+      - offset: 69
+        length: 29
+        placeholder_text: /* TODO */
+      - offset: 104
+        length: 179
+        placeholder_text: /* TODO */
+      - offset: 289
+        length: 218
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/school/Professor.java
+    visible: true
+    placeholders:
+      - offset: 49
+        length: 14
+        placeholder_text: /* TODO */
+      - offset: 71
+        length: 45
+        placeholder_text: /* TODO */
+      - offset: 122
+        length: 189
+        placeholder_text: /* TODO */
+      - offset: 317
+        length: 259
+        placeholder_text: /* TODO */
+  - name: test/it/unisa/school/PersonTest.java
+    visible: true
+  - name: test/it/unisa/school/ProfessorTest.java
+    visible: true
+  - name: test/it/unisa/school/StudentTest.java
+    visible: true

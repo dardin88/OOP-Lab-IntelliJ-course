@@ -1,15 +1,15 @@
 type: edu
 files:
-- name: test/it/unisa/SMS/SMSOrganizerTest.java
-  visible: true
-- name: src/it/unisa/SMS/SMS.java
-  visible: true
-- name: src/it/unisa/SMS/SMSOrganizer.java
-  visible: true
-  placeholders:
-  - offset: 337
-    length: 39
-    placeholder_text: /* TODO */
-  - offset: 463
-    length: 41
-    placeholder_text: /* TODO */
+  - name: test/it/unisa/SMS/SMSOrganizerTest.java
+    visible: true
+  - name: src/it/unisa/SMS/SMS.java
+    visible: true
+  - name: src/it/unisa/SMS/SMSOrganizer.java
+    visible: true
+    placeholders:
+      - offset: 337
+        length: 39
+        placeholder_text: /* TODO */
+      - offset: 463
+        length: 41
+        placeholder_text: /* TODO */

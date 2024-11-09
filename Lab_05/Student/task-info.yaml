@@ -6,7 +6,7 @@ files:
       - offset: 100
         length: 31
         placeholder_text: /* TODO */
-      - offset: 924
+      - offset: 938
         length: 127
         placeholder_text: /* TODO */
   - name: test/it/unisa/student/StudentTest.java

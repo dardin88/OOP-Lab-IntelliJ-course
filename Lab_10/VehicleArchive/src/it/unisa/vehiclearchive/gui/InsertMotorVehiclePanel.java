@@ -7,13 +7,13 @@ import java.awt.*;
 
 public class InsertMotorVehiclePanel extends JPanel {
 
-    protected JTextField brandTextField;
-    protected JTextField modelTextField;
-    protected JTextField licensePlateTextField;
-    protected JTextField yearTextField;
-    protected JComboBox<String> supplyComboBox;
-    protected JComboBox<Integer> numberOfDoorsComboBox;
-    protected JComboBox<Integer> numberOfSeatsComboBox;
+    protected final JTextField brandTextField;
+    protected final JTextField modelTextField;
+    protected final JTextField licensePlateTextField;
+    protected final JTextField yearTextField;
+    protected final JComboBox<String> supplyComboBox;
+    protected final JComboBox<Integer> numberOfDoorsComboBox;
+    protected final JComboBox<Integer> numberOfSeatsComboBox;
 
     public InsertMotorVehiclePanel() {
         this.setLayout(new GridLayout(8, 1));

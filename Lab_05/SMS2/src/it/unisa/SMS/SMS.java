@@ -38,14 +38,14 @@ public class SMS {
         return text;
     }
 
-    public static Comparator<SMS> dateComparator = new Comparator<>() {
+    public static final Comparator<SMS> dateComparator = new Comparator<>() {
         @Override
         public int compare(SMS sms1, SMS sms2) {
             return sms1.getDate().compareTo(sms2.getDate());
         }
     };
 
-    public static Comparator<SMS> senderComparator = new Comparator<>() {
+    public static final Comparator<SMS> senderComparator = new Comparator<>() {
         @Override
         public int compare(SMS sms1, SMS sms2) {
             return sms1.getSender().compareTo(sms2.getSender());

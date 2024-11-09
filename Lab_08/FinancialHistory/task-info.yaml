@@ -1,29 +1,29 @@
 type: edu
 files:
-- name: src/it/unisa/financialhistory/FinancialHistory.java
-  visible: true
-  placeholders:
-  - offset: 295
-    length: 217
-    placeholder_text: /* TODO */
-  - offset: 1185
-    length: 15
-    placeholder_text: /* TODO */
-  - offset: 1269
-    length: 240
-    placeholder_text: /* TODO */
-  - offset: 1574
-    length: 231
-    placeholder_text: /* TODO */
-  - offset: 1856
-    length: 120
-    placeholder_text: /* TODO */
-  - offset: 585
-    length: 81
-    placeholder_text: /* TODO */
-- name: src/it/unisa/financialhistory/Person.java
-  visible: true
-- name: src/it/unisa/financialhistory/Movement.java
-  visible: true
-- name: test/it/unisa/financialhistory/FinancialHistoryTest.java
-  visible: true
+  - name: src/it/unisa/financialhistory/FinancialHistory.java
+    visible: true
+    placeholders:
+      - offset: 295
+        length: 217
+        placeholder_text: /* TODO */
+      - offset: 585
+        length: 81
+        placeholder_text: /* TODO */
+      - offset: 1185
+        length: 15
+        placeholder_text: /* TODO */
+      - offset: 1269
+        length: 240
+        placeholder_text: /* TODO */
+      - offset: 1574
+        length: 231
+        placeholder_text: /* TODO */
+      - offset: 1856
+        length: 120
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/financialhistory/Person.java
+    visible: true
+  - name: src/it/unisa/financialhistory/Movement.java
+    visible: true
+  - name: test/it/unisa/financialhistory/FinancialHistoryTest.java
+    visible: true

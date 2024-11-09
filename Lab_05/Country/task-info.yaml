@@ -1,38 +1,38 @@
 type: edu
 files:
-- name: src/it/unisa/country/Country.java
-  visible: true
-  placeholders:
-  - offset: 48
-    length: 30
-    placeholder_text: /* TODO */
-  - offset: 413
-    length: 129
-    placeholder_text: /* TODO */
-- name: src/it/unisa/country/DataSet.java
-  visible: true
-  placeholders:
-  - offset: 63
-    length: 7
-    placeholder_text: /* TODO */
-  - offset: 92
-    length: 7
-    placeholder_text: /* TODO */
-  - offset: 241
-    length: 7
-    placeholder_text: /* TODO */
-  - offset: 306
-    length: 7
-    placeholder_text: /* TODO */
-  - offset: 380
-    length: 7
-    placeholder_text: /* TODO */
-- name: test/it/unisa/country/DataSetTest.java
-  visible: true
-  placeholders:
-  - offset: 153
-    length: 342
-    placeholder_text: /* TODO */
-  - offset: 553
-    length: 337
-    placeholder_text: /* TODO */
+  - name: src/it/unisa/country/Country.java
+    visible: true
+    placeholders:
+      - offset: 48
+        length: 30
+        placeholder_text: /* TODO */
+      - offset: 413
+        length: 129
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/country/DataSet.java
+    visible: true
+    placeholders:
+      - offset: 63
+        length: 7
+        placeholder_text: /* TODO */
+      - offset: 92
+        length: 7
+        placeholder_text: /* TODO */
+      - offset: 241
+        length: 7
+        placeholder_text: /* TODO */
+      - offset: 306
+        length: 7
+        placeholder_text: /* TODO */
+      - offset: 380
+        length: 7
+        placeholder_text: /* TODO */
+  - name: test/it/unisa/country/DataSetTest.java
+    visible: true
+    placeholders:
+      - offset: 153
+        length: 342
+        placeholder_text: /* TODO */
+      - offset: 553
+        length: 337
+        placeholder_text: /* TODO */
