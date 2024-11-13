@@ -18,7 +18,7 @@ public class SavingAccount extends BankAccount {
     }
 
     /**
-     * Add the interest rate for three months
+     * Add the interest for three months
      */
     public void addInterest() {
         double interest = this.getBalance() * interestRate * 90 / 36000;

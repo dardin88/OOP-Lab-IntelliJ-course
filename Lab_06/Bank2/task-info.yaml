@@ -23,7 +23,7 @@ files:
       - offset: 458
         length: 78
         placeholder_text: /* TODO */
-      - offset: 646
+      - offset: 641
         length: 96
         placeholder_text: /* TODO */
   - name: test/it/unisa/bank/BankTest.java
