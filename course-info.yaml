@@ -3,7 +3,7 @@ title: Laboratorio di Object Oriented Programming in Java
 language: Italian
 summary: |-
   This is a collection of lab sessions for an Object Oriented Programming course in Italian.
-  Questo corso contiene alcune lezioni di laboratorio del corso di Programmazione Orientata agli Oggetti AA 2024/25
+  Questo corso contiene alcune lezioni di laboratorio del corso di Programmazione Orientata agli Oggetti AA 2025/26
   (congrua 2) tenuto al Dipartimento di Informatica dell'Università degli Studi di Salerno:
   - Il corso è pensato per studenti con basi di programmazione procedurale.
   - Il corso copre alcune funzionalità principali di Java.
@@ -14,15 +14,25 @@ vendor:
 programming_language: Java
 programming_language_version: 21
 content:
-  - Lab_01
-  - Lab_02
-  - Lab_03
-  - Lab_04
-  - Lab_05
-  - Lab_06
-  - Lab_07
-  - Lab_08
-  - Lab_09
-  - Lab_10
+  - Intro
+  - Scrittura Primi Programmi
+  - Realizzazione di Classi
+  - Pacchetti e Variabili Statiche
+  - Interfacce
+  - Ereditarietà
+  - Eccezioni
+  - File
+  - Interfacce Grafiche
+  - Extra GregorianCalendar e LocalDate
 environment_settings:
   jvm_language_level: JDK_21
+additional_files:
+  - name: README.md
+  - name: LICENSE.md
+  - name: build.gradle
+  - name: settings.gradle
+  - name: .gradle/8.14/checksums/sha1-checksums.bin
+    is_binary: true
+  - name: .gradle/8.14/fileHashes/resourceHashesCache.bin
+    is_binary: true
+yaml_version: 4

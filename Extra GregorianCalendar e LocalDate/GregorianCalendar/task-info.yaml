@@ -1,0 +1,82 @@
+type: edu
+files:
+  - name: src/it/unisa/supermarket/Product.java
+    visible: true
+    placeholders:
+      - offset: 978
+        length: 164
+        placeholder_text: /* TODO */
+      - offset: 1148
+        length: 202
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/supermarket/Grocery.java
+    visible: true
+    placeholders:
+      - offset: 89
+        length: 15
+        placeholder_text: /* TODO */
+      - offset: 770
+        length: 99
+        placeholder_text: /* TODO */
+      - offset: 875
+        length: 166
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/supermarket/Electronic.java
+    visible: true
+    placeholders:
+      - offset: 55
+        length: 15
+        placeholder_text: /* TODO */
+      - offset: 953
+        length: 88
+        placeholder_text: /* TODO */
+      - offset: 1047
+        length: 197
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/supermarket/Supermarket.java
+    visible: true
+    placeholders:
+      - offset: 265
+        length: 130
+        placeholder_text: /* TODO */
+      - offset: 474
+        length: 261
+        placeholder_text: /* TODO */
+      - offset: 741
+        length: 115
+        placeholder_text: /* TODO */
+      - offset: 862
+        length: 115
+        placeholder_text: /* TODO */
+      - offset: 983
+        length: 263
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/supermarket/ProductComparatorByCode.java
+    visible: true
+    placeholders:
+      - offset: 98
+        length: 30
+        placeholder_text: /* TODO */
+      - offset: 136
+        length: 141
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/supermarket/ProductComparatorByPrice.java
+    visible: true
+    placeholders:
+      - offset: 31
+        length: 28
+        placeholder_text: /* TODO */
+      - offset: 99
+        length: 30
+        placeholder_text: /* TODO */
+      - offset: 137
+        length: 149
+        placeholder_text: /* TODO */
+  - name: test/it/unisa/supermarket/SupermarketTest.java
+    visible: true
+  - name: test/it/unisa/supermarket/ProductTest.java
+    visible: true
+  - name: test/it/unisa/supermarket/GroceryTest.java
+    visible: true
+  - name: test/it/unisa/supermarket/ElectronicTest.java
+    visible: true

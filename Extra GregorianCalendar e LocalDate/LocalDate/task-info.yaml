@@ -1,0 +1,48 @@
+type: edu
+files:
+  - name: src/it/unisa/supermarket/Product.java
+    visible: true
+    placeholders:
+      - offset: 31
+        length: 27
+        placeholder_text: /* TODO */
+      - offset: 994
+        length: 11
+        placeholder_text: /* TODO */
+      - offset: 1089
+        length: 23
+        placeholder_text: /* TODO */
+      - offset: 1160
+        length: 154
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/supermarket/Grocery.java
+    visible: true
+    placeholders:
+      - offset: 31
+        length: 27
+        placeholder_text: /* TODO */
+      - offset: 410
+        length: 71
+        placeholder_text: /* TODO */
+      - offset: 487
+        length: 101
+        placeholder_text: /* TODO */
+      - offset: 730
+        length: 93
+        placeholder_text: /* TODO */
+  - name: src/it/unisa/supermarket/Electronic.java
+    visible: true
+  - name: src/it/unisa/supermarket/Supermarket.java
+    visible: true
+  - name: src/it/unisa/supermarket/ProductComparatorByCode.java
+    visible: true
+  - name: src/it/unisa/supermarket/ProductComparatorByPrice.java
+    visible: true
+  - name: test/it/unisa/supermarket/SupermarketTest.java
+    visible: true
+  - name: test/it/unisa/supermarket/ProductTest.java
+    visible: true
+  - name: test/it/unisa/supermarket/GroceryTest.java
+    visible: true
+  - name: test/it/unisa/supermarket/ElectronicTest.java
+    visible: true
