@@ -1,0 +1,2 @@
+[kiwi, apple, banana, strawberry]
+[strawberry, banana, apple, kiwi]

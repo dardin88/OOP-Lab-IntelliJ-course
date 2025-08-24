@@ -1,0 +1,14 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 289
+        length: 206
+        placeholder_text: /* TODO */
+      - offset: 620
+        length: 199
+        placeholder_text: /* TODO */
+  - name: test/output.txt
+    visible: false
+    propagatable: false

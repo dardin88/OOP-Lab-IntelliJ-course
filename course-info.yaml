@@ -23,6 +23,7 @@ content:
   - Eccezioni
   - File
   - Interfacce Grafiche
+  - Lamba Expressions
   - Extra GregorianCalendar e LocalDate
 environment_settings:
   jvm_language_level: JDK_21

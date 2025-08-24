@@ -1,0 +1,10 @@
+BRIAN
+NATE
+NEAL
+SARA
+SCOTT
+5
+4
+4
+4
+5
