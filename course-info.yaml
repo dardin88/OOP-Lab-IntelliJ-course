@@ -1,5 +1,5 @@
 type: marketplace
-title: Programmazione Object Oriented in Java
+title: Object Oriented Programming in Java
 language: Italian
 summary: |-
   This is a collection of lab sessions for an Object Oriented Programming course in Italian.
@@ -38,4 +38,4 @@ additional_files:
     is_binary: true
   - name: .gradle/workspace-id.txt
   - name: .gradle/workspace-id.txt.lock
-yaml_version: 4
+yaml_version: 5
