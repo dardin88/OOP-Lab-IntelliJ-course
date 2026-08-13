@@ -3,7 +3,7 @@ title: Object Oriented Programming in Java
 language: Italian
 summary: |-
   This is a collection of lab sessions for an Object Oriented Programming course in Italian.
-  Questo corso contiene alcune lezioni di laboratorio del corso di Programmazione Orientata agli Oggetti AA 2025/26
+  Questo corso contiene alcune lezioni di laboratorio del corso di Programmazione Orientata agli Oggetti AA 2026/27
   (congrua 2) tenuto al Dipartimento di Informatica dell'Università degli Studi di Salerno:
   - Il corso è pensato per studenti con basi di programmazione procedurale.
   - Il corso copre alcune funzionalità principali di Java.
@@ -12,7 +12,7 @@ summary: |-
 vendor:
   name: Dario Di Nucci
 programming_language: Java
-programming_language_version: 21
+programming_language_version: 25
 content:
   - Intro
   - Scrittura Primi Programmi
@@ -23,19 +23,17 @@ content:
   - Eccezioni
   - File
   - Interfacce Grafiche
-  - Lamba Expressions
+  - Extra Lamba Expressions
   - Extra GregorianCalendar e LocalDate
 environment_settings:
-  jvm_language_level: JDK_21
+  jvm_language_level: JDK_25
 additional_files:
   - name: README.md
   - name: LICENSE.md
   - name: build.gradle
   - name: settings.gradle
-  - name: .gradle/8.14/checksums/sha1-checksums.bin
     is_binary: true
   - name: .gradle/8.14/fileHashes/resourceHashesCache.bin
     is_binary: true
-  - name: .gradle/workspace-id.txt
-  - name: .gradle/workspace-id.txt.lock
-yaml_version: 5
+  - name: gradle/wrapper/gradle-wrapper.properties
+yaml_version: 6
