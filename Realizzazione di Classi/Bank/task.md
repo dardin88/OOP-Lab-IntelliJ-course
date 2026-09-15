@@ -8,5 +8,5 @@ Implementare e testare la classe `Bank` che contenga un vettore di oggetti di ti
 - `getBalance(accountNumber)`
 - `transfer(fromAccountNumber, toAccountNumber, amount)`
 
-Si ricordi che in `withdaw` è permesso prelevare in negativo.
+Si ricordi che in `withdraw` è permesso prelevare in negativo.
 L’alternativa consiste nel lanciare un’eccezione (vedere le prossime lezioni).

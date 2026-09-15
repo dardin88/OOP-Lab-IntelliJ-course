@@ -12,7 +12,7 @@ summary: |-
 vendor:
   name: Dario DI NUCCI
 programming_language: Java
-programming_language_version: 25
+programming_language_version: 21
 content:
   - Intro
   - Scrittura Primi Programmi
@@ -23,7 +23,7 @@ content:
   - Eccezioni
   - File
   - Interfacce Grafiche
-  - Extra Lamba Expressions
+  - Extra Lambda Expressions
   - Extra GregorianCalendar e LocalDate
 environment_settings:
   jvm_language_level: JDK_25
@@ -32,8 +32,6 @@ additional_files:
   - name: LICENSE.md
   - name: build.gradle
   - name: settings.gradle
-    is_binary: true
-  - name: .gradle/8.14/fileHashes/resourceHashesCache.bin
     is_binary: true
   - name: gradle/wrapper/gradle-wrapper.properties
 yaml_version: 6
