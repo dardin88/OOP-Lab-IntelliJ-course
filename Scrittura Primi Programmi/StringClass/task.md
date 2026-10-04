@@ -58,4 +58,4 @@ Per una panoramica dei metodi della classe `String`
 vedere la [documentazione ufficiale](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html)
 
 Un esempio di uso di substring e concatenazione è disponibile
-[qui](course://Intro/StringClass/src/SubstringConcatExample.java).
+[qui](course://Scrittura Primi Programmi/StringClass/src/SubstringConcatExample.java).

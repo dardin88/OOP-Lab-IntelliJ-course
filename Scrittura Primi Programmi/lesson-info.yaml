@@ -1,9 +1,10 @@
 content:
-  - SavingAccount
-  - VendingMachine
-  - Student
-  - Infected
-  - Car
-  - InputChecker
-  - FirstAndLastWord
-  - Locker
+  - StringClass
+  - PrintMiddleChar
+  - FirstAndLastInverted
+  - InvertHalfString
+  - CharAt
+  - IndexOf
+  - UpperCaseInitial
+  - StringBuilder
+  - Rectangle
